@@ -1,0 +1,26 @@
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #f5d !important;
+    border: 0.1px solid #f5d;
+    border-right: none;
+    border-top: none;
+}
+.fixed-set1:hover {
+    background-color: none;
+    border: 1px solid #fefefe;
+    width: 60px;
+}
+.fixed-set2:hover {
+    background-color: none;
+    border: 1px solid #fefefe;
+    width: 60px;
+}
+.fixed-set3:hover {
+    background-color: none;
+    border: 1px solid #fefefe;
+    width: 60px;
+}
+
+.fixed-set:hover i {
+    color: #fefefe;
+    transform: rotate(130deg);
+}

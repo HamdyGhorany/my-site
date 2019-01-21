@@ -1,0 +1,45 @@
+@keyframes date {
+    0%{content: " P|"}
+    3%{content: " Pr|"}
+    5%{content: " Pro|"}
+    7%{content: " Prof|"}
+    9%{content: " Profe|"}
+    10%{content: " Profes|"}
+    12%{content: " Profess|"}
+    14%{content: " Professi|"}
+    16%{content: " Professio|"}
+    18%{content: " Profession|"}
+    20%{content: " Professiona|"}
+    22%{content: " Professional|"}
+    24%{content: " Professional |"}
+    27%{content: " Professional W|"}
+    30%{content: " Professional We|"}
+    35%{content: " Professional Web D|"}
+    40%{content: " Professional Web De|"}
+    45%{content: " Professional Web Des|"}
+    50%{content: " Professional Web Desi|"}
+    55%{content: " Professional Web Desig|"}
+    60%{content: " Professional Web Design|"}
+    64%{content: " Professional Web Designe|"}
+    67%{content: " Professional Web Designer|"}
+    69%{content: " Professional Web Designer &|"}
+    71%{content: " Professional Web Designer & |"}
+    77%{content: " Professional Web Designer & D|"}
+    82%{content: " Professional Web Designer & De|"}
+    85%{content: " Professional Web Designer & Dev|"}
+    87%{content: " Professional Web Designer & Deve|"}
+    90%{content: " Professional Web Designer & Devel|"}
+    92%{content: " Professional Web Designer & Devel|"}
+    95%{content: " Professional Web Designer & Develop|"}
+    97%{content: " Professional Web Designer & Develope|"}
+    100%{content: " Professional Web Designer & Developer|"}
+}
+.fixed-set i {
+    animation-name: sasa;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes sasa {
+    0%{bottom: 3px}
+    100%{bottom: 3px}
+}
